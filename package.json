@@ -1,0 +1,16 @@
+{
+  "name": "files-exercises",
+  "version": "1.0.0",
+  "main": "step3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adam",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "process": "^0.11.10"
+  }
+}
